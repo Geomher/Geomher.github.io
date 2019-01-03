@@ -1,0 +1,179 @@
+@charset "utf-8";
+/* CSS Document (Global Styles) */
+
+body {
+	background-color: #fff;
+	color: black;
+	font: normal 15px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+p {
+	line-height: 20px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-family: 'Crete Round', serif;
+    font-weight: bold;
+    color: black;
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-weight: 300;
+    color: black;
+    font-size: 55px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h3 {
+    font-size: 30px;
+    color: black;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h4 {
+    font-size: 24px;
+    color: black;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+h5 {
+    font-size: 15px;
+    color: black;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: #117A65;
+}
+
+strong {
+    font-weight: bold;
+}
+
+small {
+    font-size: 13px;
+    color: #444;
+    font-style: italic;
+}
+
+.clear {
+    clear: both;
+}
+
+.wrapper {
+    margin: 0 auto;
+    padding: 0 10px;
+    width: 75%;
+}
+
+/* Header */
+	header {
+		height: 80px;
+		/* border: 10px groove #7F0103; */
+	}
+	header h1 {
+		float: left;
+		margin-top: 15px;
+		margin-left: -64px;
+	}
+	header nav {
+		float: right;
+		margin-left: 1px;
+	}
+	header nav ul li {
+		float: left;
+		display: inline-block;
+		margin-top: 33px;
+	}
+	header nav ul li a {
+		color: black;
+		text-transform: uppercase;
+		font-weight: bold;
+		font-size: 14px;
+		display: block;
+		margin-right: 20px;
+	}
+	
+	#header-bottom {
+		text-align: center;
+		color: #fff;
+		background-color: #880F11;
+		padding: 10px 0 1px 0;
+	}
+
+	#header-bottom h3 {
+		color: white;
+		text-shadow: 3px 3px 3px black;
+	}
+
+/* Footer */
+	footer {
+    padding: 20px 0 140px 0;
+    background-color: #f8fafa;
+	margin-top: 15px;
+	border-top: solid 10px maroon;
+	}
+	.footer-info {
+		width: 40%;
+		float: left;
+		margin-top: 10px;
+	}
+
+/* Info */
+	.info {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 65%;
+		font-size: 18px;
+	}
+
+	.info h4 {
+		margin-top: 20px;
+	}
+
+	.info img {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 75%;
+	}
+
+	.info #vs {
+		display: block;
+		width: 50%;
+		margin-bottom: 45px;
+		float: left;
+	}
+
+	.info #vs2 {
+		display: block;
+		width: 50%;
+		margin-bottom: 35px;
+		float: right;
+	}
+
+	.info ul li {
+		list-style: circle;
+	}
+
+
+
+
+
