@@ -1,0 +1,57 @@
+@charset "utf-8";
+/* CSS Document */
+
+.page h1 {
+	font-size: 2.5em;
+	text-align: center;
+	border-top: 1px solid #2D6AFF;
+	border-bottom: 1px solid #2D6AFF;
+	padding: 3px 0px;
+}
+
+.assignment-link {
+	width: 70%;
+	background-color: #A9B8FF;
+	margin: 0 auto;
+	text-align: center;
+	line-height: 1.25em;
+	font-size: 18px;
+}
+
+h4 {
+	padding-top: 25px;
+	font-size: 1.25em;
+}
+
+h5 {
+	padding-bottom: 25px;
+	font-size: 1em;
+}
+
+h4, h5 {
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.assignment-link img {
+	width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

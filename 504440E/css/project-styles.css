@@ -1,0 +1,75 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*  */
+
+.joint-box {
+	border-bottom: 1px solid white;
+}
+
+table {
+	border-collapse: collapse;
+	width: 80%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+table, th, td {
+	border: 1px solid black;
+}
+
+th, td {
+	padding: 10px;
+}
+
+#she-concepts {
+	opacity: 0.8;
+	border-top: 1px solid #2D6AFF;
+	border-bottom: 1px solid #2D6AFF;
+	margin: 0px 30px;
+}
+
+.info, .table {
+	font-size: 20px;
+}
+
+.info img {
+	display: block;
+	margin: 5px auto;
+	text-align: center;
+}
+
+#references {
+	background-color: #F0F0F0;
+	padding: 1px 0px;
+	font-size: 20px;
+}
+
+.img-caption {
+	display: block;
+	width: 20%;
+	margin: 10px auto;
+}
+
+ol li {
+	margin: 5px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

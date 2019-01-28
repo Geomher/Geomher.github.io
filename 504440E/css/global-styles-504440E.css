@@ -1,0 +1,100 @@
+@charset "utf-8";
+/* CSS Document */
+
+.page {
+	width: 80%;
+	margin: 20px auto;
+}
+
+header h1 {
+	text-align: center;
+	font-size: 5em;
+	margin: 5px 5px 0px;
+	border: none;
+}
+
+h2 {
+	text-align: center;
+	margin: 0px;
+	font-weight: lighter;
+	padding-bottom: 15px;
+}
+
+h1, h2, h3, h4, h5 {
+	font-family: "BioRhyme", Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	text-transform: uppercase;
+}
+
+body {
+	font-family: "Cabin", "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+
+header {
+	background-color: #051945;
+	color: white;
+	border-bottom: 3px solid #4173C9;
+}
+
+nav {
+	background-color: #082768;
+	padding: 0.1em;
+	border-bottom: 4px solid #4173C9;
+}
+
+nav ul {
+	display: flex;
+    align-items: stretch; /* Default */
+    justify-content: space-between;
+    width: 100%;
+    margin: 0px;
+    padding: 0.5em;
+}
+
+nav ul li {
+	display: inline-block;
+	flex: 0 1 auto;
+	font-size: 1.25em;
+	padding: 0em 2em 0em 2em;
+	text-transform: uppercase;
+}
+
+nav ul li:hover {
+	text-decoration: underline;
+}
+
+nav ul li a {
+	color: white;
+	text-decoration: none;
+}
+
+footer {
+	background-color: #2F324A;
+	margin-top: 20px;
+}
+
+.footer-info {
+	color: white;
+	display: block;
+	padding: 20px;
+	width: 80%;
+	margin: 0px auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
